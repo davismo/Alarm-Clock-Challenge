@@ -1,4 +1,4 @@
-Alarm-Clock-Challenge
+The Alarm Challenger
 =====================
 
-A mobile alarm clock app, that makes users complete challenges and mini games before the alarm will turn off. This app would help people who typically have difficulty getting up in the mornings by making them work their brains in interesting ways.
+Picture this... you're a college student that just pulled a late night 6 hour study session and its 4:00am. In less than four hours you have to wake up to your Final Exam at 8:00 am and you have no idea how you're going to wake up. If you can relate than the Alarm Challenger app is for you. The Alarm Challenger is a mobile alarm clock application that forces the user to complete a small challenge, math problem, or mini game before an alarm sound, so annoying that you will be trying your hardest to shutdown, will turn off. On startup, the user can set up one or more alarms to wake them up at a specific time(s). When the clock hits the alarm wake-up time, an alarm will sound and a random challenge will appear on the screen that the user must complete. The purpose of this app is to help people that have difficulties waking up in the early morning by stimulating their mind and forcing them to a state of awareness. 
